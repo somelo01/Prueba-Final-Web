@@ -1,0 +1,55 @@
+body{
+    background-color: #d3cc06;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('../imagenes/fondo.jpg');
+    background-size: cover;
+}
+
+ Table {
+    background-color: rgba(237, 245, 9, 0.258);
+    color: #ffffff;
+    box-shadow:
+    0 0 5px #ffffff,
+    0 0 10px #ffffff,
+    0 0 20px #ffffff,
+    0 0 40px #ffffff;
+    
+}
+
+h1 {
+    color: #fbff04;
+    text-shadow:
+    0 0 5px #ffffff,
+    0 0 10px #ffffff,
+    0 0 20px #ffffff,
+    0 0 40px #ffffff;
+}
+h2 {
+    color: #fbff04;
+    text-shadow:
+    0 0 2px #3266ea,
+    0 0 4px #367af8,
+    0 0 8px #71bdf0,
+    0 0 16px #6dc7ff;
+}
+
+input[type="submit"] {
+    background-color: #fbff04;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+
+input[type="button"] {
+    background-color: #fbff04;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
